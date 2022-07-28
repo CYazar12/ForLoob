@@ -1,8 +1,10 @@
 # ForLoob
 ## For Loob, Break,Continue
 
-'''using System
+using System
+
 namespace for_loop
+
 {
     class Program
     {
@@ -30,9 +32,9 @@ static void Main(string[] args)
                 {
                     ciftToplam += i;
                 }
-            }'''
+            }
 
-            '''Console.WriteLine("Tek toplam: " + tekToplam);
+           Console.WriteLine("Tek toplam: " + tekToplam);
             Console.WriteLine("Çift toplam: " + ciftToplam);
 
             for (int i = 0; i < 10; i++)
@@ -49,6 +51,6 @@ static void Main(string[] args)
             }
         }
     }
-}'''
+}
 
 
